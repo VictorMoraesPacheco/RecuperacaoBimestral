@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Super Quiz Pimbaneitor 2000</string>
+    <string-array name="sp_primeira_pergunta">
+        <item>Verde Escuro</item>
+        <item>Preto</item>
+        <item>Cinza</item>
+        <item>Vermelho Escarlate</item>
+        <item>Verde Limão</item>
+    </string-array>
+    <string-array name="sp_segunda_pergunta">
+        <item>Jhon</item>
+        <item>Bill</item>
+        <item>Chimichanga</item>
+        <item>Ferbino</item>
+        <item>David</item>
+    </string-array>
+    <string name="pergunta1">Qual é a cor mais bela?</string>
+    <string name="pergunta2">Quem matou Jax?</string>
+    <string name="main_button">Responder</string>
+</resources>
